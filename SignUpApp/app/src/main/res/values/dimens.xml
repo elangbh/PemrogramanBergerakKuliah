@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_vertical_layout">40dp</dimen>
+    <dimen name="activity_horizontal_layout">40dp</dimen>
+    <dimen name="activity_top_layout">40dp</dimen>
+    <dimen name="activity_bottom_layout">40dp</dimen>
+</resources>

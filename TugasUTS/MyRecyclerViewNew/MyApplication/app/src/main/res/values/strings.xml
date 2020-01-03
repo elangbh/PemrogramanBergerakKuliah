@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Man.United Legends player</string>
+    <string name="player_name">Nama Pemain</string>
+    <string name="detail">Biodata</string>
+    <string name="nama_profil">Namaku Elang Bayu Hermawan</string>
+    <string name="desc">Menjadi programmer adalah sebuah cita cita. Ditengah keterbatasan ekonomi alias ngga punya laptop dengan spesifikasi yang bagus, aku masih punya mulut untuk meminjam laptop temanku untuk bisa ngoding. Ini aplikasi yang aku submit,dan aku bangga meskipun sederhana, tetapi kental akan rasa berjuang</string>
+    <string name="profil">Profil</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">Card View</string>
+
+
+
+</resources>

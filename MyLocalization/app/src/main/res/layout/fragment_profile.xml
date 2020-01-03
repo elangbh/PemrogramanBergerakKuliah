@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileFragment"
+    android:background="@color/colorAccent">
+<de.hdodenhof.circleimageview.CircleImageView
+    android:padding="10dp"
+    android:src="@drawable/gambarelank"
+    android:layout_width="400dp"
+    android:layout_height="240dp"
+    android:layout_marginTop="60dp"
+    android:layout_marginLeft="10dp"/>
+
+    <ImageView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bingkai"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/bingkai"/>
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="300dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/kotak" />
+
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="80dp"
+        android:text="@string/name"
+        android:padding="10dp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="310dp"
+        />
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:text="@string/name1"
+        android:padding="10dp"
+        android:layout_marginLeft="140dp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="310dp"/>
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="80dp"
+        android:text="@string/alamat"
+        android:padding="10dp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="330dp"/>
+    <TextView
+        android:layout_width="400dp"
+        android:textColor="@android:color/black"
+        android:layout_height="100dp"
+        android:text="@string/alamat1"
+        android:padding="10dp"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="330dp"/>
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="80dp"
+        android:text="@string/hobi"
+        android:padding="10dp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="350dp"/>
+    <TextView
+        android:layout_width="400dp"
+        android:textColor="@android:color/black"
+        android:layout_height="100dp"
+        android:text="@string/hobi1"
+        android:padding="10dp"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="350dp"/>
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="80dp"
+        android:text="@string/quote"
+        android:padding="10dp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="370dp"/>
+    <TextView
+        android:layout_width="400dp"
+        android:textColor="@android:color/black"
+        android:layout_height="100dp"
+        android:text="@string/quote1"
+        android:padding="10dp"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="370dp"/>
+    <!-- TODO: Update blank fragment layout -->
+
+
+
+</RelativeLayout>
